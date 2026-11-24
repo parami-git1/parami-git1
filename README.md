@@ -16,24 +16,16 @@
 
 ### About Me
 
+<img align="right" alt="Female Software Engineer Coding" width="320" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" />
+
 AI & Machine Learning undergraduate and Full-Stack Software Developer focused on bridging complex algorithmic logic with scalable, production-ready applications.
 
 - **Full-Stack Engineering:** Building end-to-end web & mobile platforms with clean API architecture and role-based security.
 - **Applied AI & LLMs:** Designing multi-agent orchestration pipelines, automated validation, NLP, and predictive ML models.
 - **Data & Backend Systems:** Architecting relational and NoSQL databases across PostgreSQL, MongoDB, and MySQL.
+- **Core Ecosystem:** Working across ASP.NET Core 8, Node.js, Spring Boot, React, Next.js, Flutter, and Python.
 
-```mermaid
-flowchart LR
-    UI["Frontend & Mobile<br/>React · Next.js · Flutter"] --> API["Backend & APIs<br/>ASP.NET Core 8 · Node.js · Spring Boot"]
-    API --> AI["Applied AI & LLMs<br/>Multi-Agent · Groq · TensorFlow · NLP"]
-    API --> DB[("Databases<br/>PostgreSQL · MongoDB · MySQL")]
-
-    style UI fill:#0f172a,stroke:#38bdf8,stroke-width:2px,color:#f8fafc
-    style API fill:#0f172a,stroke:#818cf8,stroke-width:2px,color:#f8fafc
-    style AI fill:#0f172a,stroke:#c084fc,stroke-width:2px,color:#f8fafc
-    style DB fill:#0f172a,stroke:#2dd4bf,stroke-width:2px,color:#f8fafc
-    linkStyle default stroke:#64748b,stroke-width:2px
-```
+<br clear="right"/>
 
 ---
 
@@ -72,4 +64,30 @@ flowchart LR
   <summary><b>1. AI-Powered Intelligent Exam Preparation Platform</b> — <i>ASP.NET Core 8 · React · Flutter · PostgreSQL · Groq LLM</i></summary>
   <br>
 
-  - Architected an end-to-end cross-platform ecosystem uniting a **React** admin dashboard, **Flutter** student mobile app, and **ASP.NET Core 8
+  - Architected an end-to-end cross-platform ecosystem uniting a **React** admin dashboard, **Flutter** student mobile app, and **ASP.NET Core 8** REST API with Entity Framework Core and JWT role-based security.
+  - Built a **multi-agent AI orchestration pipeline** with automated output validation and human-in-the-loop approval to generate personalized exam papers and adaptive study plans.
+</details>
+
+<details>
+  <summary><b>2. Pinnawala Gems — Full-Stack Gemstone Trading & E-Commerce Platform</b> — <i>React · Tailwind · Node.js · Express · MongoDB</i></summary>
+  <br>
+
+  - Engineered a responsive e-commerce platform with real-time state management, auto-scrolling showcases, and dynamic content controls.
+  - Developed a scalable RESTful API using **Node.js, Express.js, and MongoDB (Mongoose)** with JWT admin authentication and **Cloudinary** media optimization.
+</details>
+
+<details>
+  <summary><b>3. AI-Based Hospital & OPD Management System & Mobile App</b> — <i>Java · Spring Boot · MySQL · React · Node.js · Python · MongoDB</i></summary>
+  <br>
+
+  - Delivered an enterprise OPD management suite and cross-platform patient portal supporting appointment booking, doctor scheduling, billing, and medical history tracking.
+  - Embedded an **AI symptom checker** delivering automated doctor recommendations alongside availability validation and role-based access control.
+</details>
+
+<details>
+  <summary><b>4. AI-Based Student Mental Health Analysis System</b> — <i>Python · GradientBoost · Jupyter Notebook</i></summary>
+  <br>
+
+  - Developed a predictive machine learning model using **GradientBoost classification** to detect depression risk patterns across behavioral, academic, and demographic datasets.
+  - Paired predictive analytics with an automated intervention framework bridging early risk detection and proactive support.
+</details>
